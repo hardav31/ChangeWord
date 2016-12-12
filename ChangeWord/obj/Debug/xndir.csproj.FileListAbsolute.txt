@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2012\Projects\xndir\xndir\bin\Debug\xndir.exe.config
+c:\users\user\documents\visual studio 2012\Projects\xndir\xndir\obj\Debug\xndir.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\xndir\xndir\bin\Debug\xndir.exe
+c:\users\user\documents\visual studio 2012\Projects\xndir\xndir\bin\Debug\xndir.pdb
+c:\users\user\documents\visual studio 2012\Projects\xndir\xndir\obj\Debug\xndir.exe
+c:\users\user\documents\visual studio 2012\Projects\xndir\xndir\obj\Debug\xndir.pdb
+D:\David\Projects home\xndir\xndir\bin\Debug\xndir.exe.config
+D:\David\Projects home\xndir\xndir\obj\Debug\xndir.exe
+D:\David\Projects home\xndir\xndir\obj\Debug\xndir.pdb
+D:\David\Projects home\xndir\xndir\bin\Debug\xndir.exe
+D:\David\Projects home\xndir\xndir\bin\Debug\xndir.pdb
+D:\David\Projects home\xndir\xndir\obj\Debug\xndir.csprojResolveAssemblyReference.cache
+C:\Users\hardav31\Documents\Visual Studio 2015\Github\ChangeWord\xndir\bin\Debug\xndir.exe.config
+C:\Users\hardav31\Documents\Visual Studio 2015\Github\ChangeWord\xndir\obj\Debug\xndir.exe
+C:\Users\hardav31\Documents\Visual Studio 2015\Github\ChangeWord\xndir\obj\Debug\xndir.pdb
